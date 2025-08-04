@@ -45,7 +45,6 @@ Automating electricity token purchases via simulated M-Pesa payments.
 
 📈 GitHub Stats & Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deikas12&show_icons=true&theme=tokyonight" alt="Denis' GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deikas12&layout=compact&theme=tokyonight" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=deikas12&theme=tokyonight" alt="GitHub Streak" /> <br /> <img src="https://komarev.com/ghpvc/?username=deikas12&label=Profile+Views&color=blueviolet&style=flat" alt="Visitor count" /> </p>
 🌱 Currently Learning
 
 Advanced React (Hooks, Context API, Redux)
