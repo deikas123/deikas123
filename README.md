@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Denis Macharia Mwai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/denis-macharia-a21508293)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=netlify&logoColor=white)](https://denisportofolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/deikas12)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:deikasonline@gmail.com)
 🎯 **About Me**  
