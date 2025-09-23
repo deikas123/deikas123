@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/deikas12/deikas12/blob/main/assets/banner.png" alt="Denis Macharia Banner" />
+  <img src="https://github.com/deikas12/deikas123/banner.png" alt="Denis Macharia Banner" />
 </p>
 
 <!-- Intro -->
