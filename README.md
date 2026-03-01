@@ -62,9 +62,6 @@ I'm a **Software Developer & Tech Enthusiast** with a background in **Informatio
 - 🛒 **The Food Basket**  
   AI-powered food delivery & smart storage with warehouse automation logic.
 
-- ⚡ **KPLC Token Automation System**  
-  Laravel system simulating M-Pesa and token vending API flow.
-
 - 🏫 **School Management SaaS**  
   An all-in-one portal for admins, teachers, students, and parents.
 
