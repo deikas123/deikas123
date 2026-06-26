@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/deikas123/deikas123/main/banner.png" alt="Denis Macharia Banner" width="100%" />
